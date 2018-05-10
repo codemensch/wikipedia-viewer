@@ -1,1 +1,0 @@
-Wikipedia viewer, Freecodecamp project.
